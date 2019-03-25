@@ -19,5 +19,22 @@ Many organizations struggle everyday with cybersecurity and implementing the CIS
   Control_3/index.rst
 
 
-Other Cool Projects
+How to Contribute
 ===================
+- Issue Tracking https://github.com/planglois925/Test_Controls_Doc/issues
+- Source https://github.com/planglois925/Test_Controls_Doc
+
+How to Add more Controls
+========================
+In the main repository you'll find a Control Template document that has all the associated structural pieces of the documentation already built out. Feel free to propose new language or updates as pull requests.
+
+
+Contribution Guidelines
+=======================
+Here are the types of contributions we are looking for:
+- Grammatical Fixes and errors
+- Additional means for implementing a sub-control
+- Well established tools and processes 
+- Additional References 
+
+
