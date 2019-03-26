@@ -32,6 +32,7 @@ In the main repository you'll find a Control Template document that has all the 
 Contribution Guidelines
 =======================
 Here are the types of contributions we are looking for:
+
 - Grammatical Fixes and errors
 - Additional means for implementing a sub-control
 - Well established tools and processes 
