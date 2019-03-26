@@ -11,7 +11,7 @@
 Welcome to The CIS Controls Implementation Guide!
 =================================================
 
-Many organizations struggle everyday with cybersecurity and implementing the CIS Controls. The goal of this project is to start collecting information on how organizations of different sizes and capabilitis can implement the CIS Controls 
+Many organizations struggle everyday with cybersecurity and implementing the CIS Controls. The goal of this project is to start collecting information on how organizations of different sizes and capabilities can implement the CIS Controls 
 
 
 
