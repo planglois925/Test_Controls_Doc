@@ -7,4 +7,4 @@ This section of the documentation compatures all the pices associated with imple
    :maxdepth: 1
    
    Control_1_4
- 
+   Control_1_6 

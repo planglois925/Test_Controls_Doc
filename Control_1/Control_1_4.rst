@@ -37,4 +37,27 @@ A variety of software is available in the market to solve this problem, but it m
 - CIS Asset Tracking Spreadsheet: This free spreadsheet is created by CIS to help you track your systems. It can be modified to meet your unique tracking needs.
 
 
+Office365 Process
+_________________
+
+Office 365 provides the capability to quickly build an asset inventory of all systems joined to a domain. While this does not obviate the need to track all assets within a network, it can quickly be used to create an initial software inventory. To access this inventory of joined devices, begin by logging into the Office 365 web application. This screen will be presented. 
+
+.. image:: _static/o354_homescreen.png
+
+Select Admin to access the Microsoft Admin Center.
+
+.. image:: _static/o365_Admin_center.png
+
+Select Show all next to the three dots. 
+
+.. image:: _static/o365_Admin_Center_expanded.png
+
+Select Admin centers, followed by Azure Active Directory. 
+
+.. image:: _static/Azure_Directory_Admin_Cetner.png
+
+Expand the side panel with the 2 sideways brackets >>. Select Azure Active Directory. 
+
+.. image:: _static/Azure_Directory_Device_Dashboard.png
+
 
