@@ -1,12 +1,13 @@
 Control 3: Continuous Vulnerability Management
 ================================
 
-This section of the documentation compatures all the pices associated with implementing an inventory of hardware across your organization. Blah blah blah lorem ipsu 
+Continuously acquire, assess, and take action on new information in order to identify vulnerabilities, remediate, and minimize the window of opportunity for attackers.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+
+   Control_3_4
+   Control_3_5
    
 
  
-Some additional Tools and Resources
-===================================

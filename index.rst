@@ -19,9 +19,26 @@ Many organizations struggle everyday with cybersecurity and implementing the CIS
   :maxdepth: 1
   :titlesonly:
  
+  Introduction/index.rst  
   Control_1/index.rst
   Control_2/index.rst
   Control_3/index.rst
+  Control_4/index.rst
+  Control_5/index.rst
+  Control_6/index.rst
+  Control_7/index.rst
+  Control_8/index.rst	
+  Control_9/index.rst	
+  Control_10/index.rst	
+  Control_11/index.rst	
+  Control_12/index.rst	
+  Control_13/index.rst
+  Control_14/index.rst
+  Control_15/index.rst
+  Control_16/index.rst
+  Control_17/index.rst  
+  Control_19/index.rst    
+  Appendix/index.rst  
 
 
 How to Contribute
@@ -42,5 +59,6 @@ Here are the types of contributions we are looking for:
 - Additional means for implementing a sub-control
 - Well established tools and processes 
 - Additional References 
+
 
 

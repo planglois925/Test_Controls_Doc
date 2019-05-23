@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Test_documentation'
-copyright = u'2019, Phil Langlois'
-author = u'Phil Langlois'
+project = u'CIS Windows 10 Guide'
+copyright = u'2019, Center for Internet Security'
+author = u'CIS'
 
 # The short X.Y version
 version = u''
 # The full version, including alpha/beta/rc tags
-release = u'v0.1'
+release = u'v0.2'
 
 
 # -- General configuration ---------------------------------------------------

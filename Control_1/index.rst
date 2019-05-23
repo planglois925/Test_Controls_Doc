@@ -1,7 +1,7 @@
-Control 1: Inventory of Hardware
-================================
+Control 1: Inventory and Control of Hardware Assets
+===================================================
 
-This section of the documentation compatures all the pices associated with implementing an inventory of hardware across your organization. Blah blah blah lorem ipsu 
+Actively manage (inventory, track, and correct) all hardware devices on the network so that only authorized devices are given access, and unauthorized and unmanaged devices are found and prevented from gaining access.
 
 .. toctree::
    :maxdepth: 1
