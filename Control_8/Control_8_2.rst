@@ -7,7 +7,6 @@ Category
 ________
 Technical
 
-
 Purpose
 _______
 Anti-malware, also known as anti-virus, is a well-known security technology. Anti-malware suites work by constantly monitoring all of the running applications on a system, and alerting an enterprise administrator if a malicious program or other suspicious activity is detected. A list of suspicious applications and actions that the security technology looks for is created and kept up-to-date by the anti-virus company. That company regularly delivers updates to the suspicious applications and actions list on a regular basis, and these updates are called signatures. If signatures are not downloaded and installed on a regular basis, machines may be vulnerable to the most recent attacks. Because it is easy to forget, antivirus updates should be set to automatically download and install on each and every computer or server in an enterprise.
@@ -16,14 +15,12 @@ Malware is software specifically designed to attack computer systems, devices, a
 
 Automation
 __________
-
 This is an easy Sub-Control to automate and is worth the time spent to properly configure.
 
 Guidance and Tools 
 __________________
-
 Although there are free products designed to remove malware, many free antivirus tools may actually be malware themselves, or try to install malware on a computer system. The safest option is to use and properly configure the set of tools that comes with Windows 10. Microsoft provides two closely related products for free that come built-into every copy of Windows.
 
 * Windows Defender Security Center: This application is a portal into a Windows system’s overall security status, including the downloading of software updates (https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-security-center/windows-defender-security-center). 
 
-Step-by-step instructions for implementing this Sub-Control can be found in*: Checking Windows Defender Security Center. 
+*Step-by-step instructions for implementing this Sub-Control can be found in*: Checking Windows Defender Security Center. 

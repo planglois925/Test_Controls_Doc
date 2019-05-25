@@ -15,12 +15,10 @@ Logging is not a prevention mechanism, meaning that logs do not stop any attacks
 
 Automation
 __________
-
 There are various methods of how to automate logging. Enabling logging on systems can be done manually on a system by system basis. Yet logging is often considered a system configuration option and can be automated with software dedicated to assessing and implementing secure configurations. Moving past just enabling logs, systems known as SIEMs (security information and event management) can be utilized that ingest log data from all systems in an enterprise, and perform data analysis to find breaches or network-wide issues or failures. SEIMs typically require a more advanced IT infrastructure and dedicated IT personnel to manage. 
 
 Guidance and Tools 
 __________________
-
 There are many types of logs that can be enabled. When beginning to enable logging on enterprise systems, utilize software and hardware inventory lists to ensure that the proper types of logs were enabled for each system or application. Look to enable logs for both the operating systems and supported applications for all enterprise systems, and also survey network devices like firewalls and wireless access points to understand their logging capabilities. In order to enable logging on firewalls and wireless access points, documentation may be required for the unique network appliance in an enterprise.
 
 .. image:: _static/BenchmarksLogo.png

@@ -15,12 +15,10 @@ Attacks on email clients and browsers can lead to a variety of cybersecurity pro
 
 Automation
 __________
-
 Some browsers update automatically by default, like Chrome, whereas others will require an additional configuration. Email clients can be similarly setup to receive automated updates. Security tools can be utilized to understand when browsers, email clients, and other programs are out of date.
 
 Guidance and Tools 
 __________________
-
 Keeping browsers and email clients up to date is generally a fairly simple task. Besides using supported software in the first place, it is important to take the extra step to make sure that browsers and clients regularly receive the security updates and patches that are made available. These updates are not installed by default on all browsers and email clients, meaning the browsers and clients need to be manually configured. Once browsers and email clients are properly configured, only require period monitoring is required. 
 
 * US-CERT: Per-browser configuration instructions are provided by US-CERT (https://www.us-cert.gov/publications/securing-your-web-browser). 

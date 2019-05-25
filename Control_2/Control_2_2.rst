@@ -21,8 +21,8 @@ Guidance and Tools
 __________________
 The primary thing that can be done is to understand the support structure from the developer for any software application before it is purchased and installed. This may involve researching alternative products and the reviews available online. Useful items to investigate before the software is purchased include: 
 
-- Length of pledged support – Support may be provided for 5 years, whereas others may only be supported for 6 months. This is one of the most critical factors.
-- Cost of support – Many products will receive updates for free, yet others may charge for updates. 
-- Who will provide support – The original developer or some other developer may support the application.
-- Support history – Pledges of support are often made, but sometimes not kept. 
+* Length of pledged support – Support may be provided for 5 years, whereas others may only be supported for 6 months. This is one of the most critical factors.
+* Cost of support – Many products will receive updates for free, yet others may charge for updates. 
+* Who will provide support – The original developer or some other developer may support the application.
+* Support history – Pledges of support are often made, but sometimes not kept. 
 

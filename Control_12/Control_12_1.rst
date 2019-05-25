@@ -7,7 +7,6 @@ Category
 ________
 Technical
 
-
 Purpose
 _______
 Network boundaries define how data flows and traverses an enterprise network. Wired and wireless boundaries will exist, alongside logical boundaries. Logical boundaries sometimes include subnetworks (e.g., subnets) or virtual local area networks (vLANs). Generally, information cannot flow from one subnet to another without a networking device such as a firewall or router acting as a gatekeeper. This establishes trust boundaries between network segments. Therefore, a survey should be conducted to understand current trust boundaries in an enterprise network.
@@ -18,13 +17,11 @@ Specifically noting which networks are within a trust boundary, and then regular
 
 Automation
 __________
-
 This Sub-Control is generally not automatable. System owners and administrators will need to manually annotate and define network boundaries. This task needs to be performed on a fairly regular basis. 
 
 Guidance and Tools 
 __________________
-
 Network scanning and monitoring tools can help test predefined network boundaries. Over time, internal networks can be misconfigured and the networking tools can help to test of network segments are actually segmented.  
 
 * Nmap: Famous multipurpose network scanner, used by system administrators and hackers across the world to identify which devices are connected to your network (https://nmap.org). This tool can identify network devices, ports, and simple configuration settings. Only scan networks you don’t own, as that is often impolite, and in many cases illegal. 
-* ZenMap: This tool builds on top of Nmap, and puts a graphic user interface on top of it to make the tool easier to use for those who do not feel comfortable using the command line (https://nmap.org/zenmap)
+* ZenMap: This tool builds on top of Nmap, and puts a graphic user interface on top of it to make the tool easier to use for those who do not feel comfortable using the command line (https://nmap.org/zenmap).

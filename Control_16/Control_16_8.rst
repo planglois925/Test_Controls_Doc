@@ -15,12 +15,10 @@ Unassociated accounts are often known as “stale” or “ghost” accounts on 
 
 Automation
 __________
-
 This Sub-Control is not entirely automatable. Products and scripts can be written to highlight suspect accounts, but the ultimate decision on whether accounts should be disabled may need to be made by a human.
 
 Guidance and Tools 
 __________________
-
 Regardless of the edition of Windows 10 that is in use, all local and remote accounts on enterprise computer systems should be regularly checked and audited. This also extends to smartphones, network appliances, and any system that enterprise utilize accounts for user access. 
 
-* Step-by-step instructions for implementing this Sub-Control can be found in*: Viewing Accounts on a Windows 10 System. 
+*Step-by-step instructions for implementing this Sub-Control can be found in*: Viewing Accounts on a Windows 10 System. 

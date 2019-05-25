@@ -7,7 +7,6 @@ Category
 ________
 Procedural
 
-
 Purpose
 _______
 Default passwords are the passwords that ship with computers, applications, routers, and other equipment. Default passwords are a very common way for computer systems, devices, and applications to be hacked. Lists of default passwords for operating systems, applications, and devices are readily available on the Internet for anyone to download and try. Therefore, enterprise passwords need to be changed from the defaults to something that is not easily guessable or easily available from a search engine.
@@ -16,12 +15,10 @@ If a password for a wireless router is guessed, an attacker will be able to add 
 
 Automation
 __________
-
 Changing default passwords within software and network equipment is generally not automatable. Each software application or piece of network equipment has to be individually investigated and changed. 
 
 Guidance and Tools 
 __________________
-
 One of the main issues with changing default passwords is the need to remember all of the passwords. Writing passwords down onto paper is considered an insecure practice. A better option is to use a password manager. Free examples include: 
 
 * KeePass: This is an open source password manager (https://keepass.info).

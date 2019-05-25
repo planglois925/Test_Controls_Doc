@@ -7,7 +7,6 @@ Category
 ________
 Technical 
 
-
 Purpose
 _______
 Removable media includes USB drives, memory cards, and external hard drives - just to name a few examples. These devices are commonly used to store photos, videos, and many types of enterprise data. Removable media is also one method used by attackers to install malicious software on computer systems. This attack method can be used to infect traditional enterprise workstations, but also computer systems viewed as secure since they lack a WiFi or Internet connection. Entirely banning the use of removable media is often impractical for businesses. In order to combat this threat, enterprise systems should be configured to scan removable devices for malware before they can be read by users.
@@ -16,12 +15,10 @@ Malware is software specifically designed to attack computer systems, devices, a
 
 Automation
 __________
-
 This Sub-Control is somewhat automatable and is worth the expense to properly configure it. Windows Defender may not be able to scan removable media every time a new one is inserted, as scans will need to be configured and performed manually on every usage.
 
 Guidance and Tools 
 __________________
-
 Windows Defender, a program built-into Windows, can perform a scan of removable media devices. This functionality is called a “custom scan” within the tool. Third-party tools can also be purchased to scan removable devices every time one is inserted in an automated manner. This Sub-Control should be implemented for of the systems within an enterprise.
 
 *Step-by-step instructions for implementing this Sub-Control can be found in*: Scanning Removable Devices

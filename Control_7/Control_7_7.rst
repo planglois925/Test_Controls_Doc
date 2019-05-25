@@ -7,7 +7,6 @@ Category
 ________
 Technical 
 
-
 Purpose
 _______
 While the DNS can be difficult to grasp, the important details are relatively simple. DNS can be thought of as a phonebook for websites that translates a human understandable domain such as (www.cisecurity.org) to a series of numbers that a computer can understand (i.e., Internet Protocol (IP) address). Therefore, when a computer wants to connect to cisecurity.org, it uses DNS to look up where it can find example.com, much like how a phone book would be used to search a person’s name to get their phone number. And all of this happens transparently in the background when requesting a webpage, so that individuals to solely need to remember the domain name instead of complex IP addresses. 
@@ -16,16 +15,12 @@ This Sub-Control helps prevent enterprise infrastructure from connecting to know
 
 Automation
 __________
-
 There are many ways that this Sub-Control can be implemented in an environment and it will mostly depend on how the enterprise is currently configured. This Sub-Control is completely automatable with the correct hardware and software being used in a network. Unfortunately, the implementation of this Sub-Control will likely require someone with specialized knowledge of networking and DNS, alongside an external trusted source for DNS information. 
 
 Guidance and Tools 
 __________________
-
 Multiple organizations exist that provide DNS filtering. Some even provide this service free of charge such as Quad9. With a simple configuration change, enterprise systems will use the filtering service with little to no impact on an organization’s Internet browsing all the while blocking bad traffic. Accordingly, the following resources can be of assistance: 
 
-* OpenDNS: Steps for setting up OpenDNS on Windows 10 
-(https://support.opendns.com/hc/en-us/articles/228007207-Windows-10-Configuration).
-* Quad9: Steps for setting up Quad9 on Windows 10 
-(https://www.quad9.net/microsoft).  
+* OpenDNS: Steps for setting up OpenDNS on Windows 10 (https://support.opendns.com/hc/en-us/articles/228007207-Windows-10-Configuration).
+* Quad9: Steps for setting up Quad9 on Windows 10 (https://www.quad9.net/microsoft).  
 

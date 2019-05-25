@@ -7,7 +7,6 @@ Category
 ________
 Technical
 
-
 Purpose
 _______
 A backup is a duplicate of a computer system’s data, but different types and degrees of backups exist. A backup is commonly viewed as a small collection of a system’s overall data. Often times only a few important folders are backed up, such as containing photos, receipts, contracts, or tax information. This information may be stored on another computer system, external hard drive, removable media, or cloud service. This strategy is insufficient for protecting an organization. Flavors of backups include incremental, differential, or complete. A complete system image is a snapshot of all data and settings on a system.
@@ -16,12 +15,10 @@ If a system is breached by an attacker, infected with malware, or involved in an
 
 Automation
 __________
-
 This Sub-Control is entirely automatable, although it requires a medium to advanced level of IT knowledge to initially setup and configure. It is often implemented by configuring a specific application to backup information to an external storage location with sufficient free space. 
 
 Guidance and Tools 
 __________________
-
 It is best practice to manually check backups from time to time to make sure that any type of backups that an organization is relying upon is working as intended. Microsoft provides a system image creation and backup utility within Windows 10 Pro. There may be a need to obtain additional tools and services for backing up non-Windows systems. The following are examples of free backup utilities that can be used to take system images:
 
 * EaseUS: This free program can be configured to take system images (https://www.easeus.com/backup-software/tb-free.html).

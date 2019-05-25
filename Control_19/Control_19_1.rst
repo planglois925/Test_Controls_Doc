@@ -15,16 +15,12 @@ The threats surrounding this Sub-Control mostly revolve around the inappropriate
 
 Automation
 __________
-
 There is no way to automate this this Sub-Control. Yet this does not mean that an incident response plan and associated response procedures must be made from scratch. Incident response procedures can be procured from other similar organizations that already have them in place. These procedures can be modified to fit most organizations’ needs. 
 
 Guidance and Tools 
 __________________
-
 Many organizations offer useful incident response guidance. 
-* Open Trust Alliance: This guidance contains checklists of considerations for developing a response plan and provides templates that can be incorporated. 
-(https://otalliance.org/system/files/files/initiative/documents/2017_cyber_incident_breach_response_guide.pdf).
-* Carnegie Mellon: The university makes their Incident Response Plan available, can be used as a resource for others 
-(https://www.cmu.edu/iso/governance/procedures/docs/incidentresponseplan1.0.pdf).
-* State of Oregon: The Oregon State Government provides a template for an Incident Response plan
-(https://www.oregon.gov/das/oscio/documents/incidentresponseplantemplate.pdf).  
+
+* Open Trust Alliance: This guidance contains checklists of considerations for developing a response plan and provides templates that can be incorporated (https://otalliance.org/system/files/files/initiative/documents/2017_cyber_incident_breach_response_guide.pdf).
+* Carnegie Mellon: The university makes their Incident Response Plan available, can be used as a resource for others (https://www.cmu.edu/iso/governance/procedures/docs/incidentresponseplan1.0.pdf).
+* State of Oregon: The Oregon State Government provides a template for an Incident Response plan (https://www.oregon.gov/das/oscio/documents/incidentresponseplantemplate.pdf).  

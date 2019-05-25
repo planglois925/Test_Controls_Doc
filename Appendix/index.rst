@@ -7,4 +7,12 @@ This section contains step-by-step guidance to secure a Windows 10 platform in a
    :maxdepth: 1
    
    HardwareAssetTrackingSpreadsheet
-   SoftwareAssetTrackingSpreadsheet 
+   SensitiveInfoTrackingSpreadsheet 
+   JoiningToADomain
+   UninstallingSoftware
+   ConfiguringAutomatedOperatingSystemPatchManagementToolsViaWindowsSettings
+   ConfiguringAutomatedOperatingSystemPatchManagementToolsViaLGPE
+   AutomaticApplicationUpdatesViaTheMicrosoftApplicationStore
+   ChangingTheDefaultPassword
+   EnforcingPasswordLengthViaLGPE
+   IdentifyingIfAnAccountIsAnAdministrator

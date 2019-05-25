@@ -7,7 +7,6 @@ Category
 ________
 Procedural, Technical
 
-
 Purpose
 _______
 Over the past few years a new type of malware has become popular that prevents enterprises from accessing their own data. This malware requires affected organizations to pay money in order to regain access to their data, whereas a related form of this malware may instead block access and never provide it ever again. Malware that requires money to obtain access once again is called ransomware. Ransomware uses cryptography to block access to a system’s data via encryption. If the data is never provided back, it is considered destructive malware.
@@ -18,12 +17,10 @@ Keeping offline backups helps organizations recover and restore systems when ran
 
 Automation
 __________
-
 This is a very difficult Sub-Control to automate. Keeping offline backups means that once a backup is created, it needs to be manually removed from the network and stored elsewhere.
 
 Guidance and Tools 
 __________________
-
 The following documents can provide additional assistance in defending against ransomware: 
 
 * US-CERT: Ransomware - What It Is and What You Can Do About it 

@@ -19,8 +19,7 @@ Guidance and Tools
 __________________
 Properly enabling the firewalls built into operating systems goes a long way towards properly implementing this control. If a computer is joined to a domain, the built-in firewalls can be automatically configured across all the computers within an enterprise network. Windows 10 comes with a firewall that will help to implement this Sub-Control. Third-party solutions are also available that can accomplish the same tasks for Windows and also support other platforms.
 
-* Windows Defender Firewall with Advanced Security: This built-in host-based firewall helps any Windows 10 Pro user meet this Sub-Control
-(https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security).  
+* Windows Defender Firewall with Advanced Security: This built-in host-based firewall helps any Windows 10 Pro user meet this Sub-Control (https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security).  
 * Check Point Zone Alarm: This is a popular free firewall that can be installed on enterprise computer systems (https://www.zonealarm.com/software/free-firewall). 
 
 .. image:: _static/BenchmarksLogo.png

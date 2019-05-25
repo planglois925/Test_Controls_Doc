@@ -12,13 +12,13 @@ Purpose
 _______
 
 An accurate and up-to-date inventory of computer systems within a network is often the first step in securing an enterprise. This list of information systems is known as a hardware asset inventory. Having a definitive list of what hardware is supposed to be part of a network enables comparison against the list of systems that are actually in place. This allows for the identification of unauthorized devices that should not be connected. A hardware asset inventory also helps define what an organization needs to protect. 
+
 An asset inventory often extends beyond what is solely connected to the network. Many organizations utilize older smartphones, laptops, networking gear, and other technology that may not be connected, or even powered on, yet might still contain sensitive information if the data is exfiltrated outside of the network. In addition to physical systems, many enterprises use third-party services for website hosting or email that are hosted in the cloud. Accordingly, any third-party services and cloud platforms should be included in the asset inventory. Examples of what to track include:
 * General computer workstations, laptops, phones, tablets;
 * Physical systems and devices operated or possibly owned by another organization that are connected to the enterprise network (e.g., Point of Sale devices); and 
 * Systems used by an organization that are cloud-hosted.
 
 Although asset management does not specifically mitigate any threats, it is the foundation for a large majority of cybersecurity activities. Cybersecurity expert Daniel Meissler points out that `If You're Not Doing Continuous Asset Management You're Not Doing Security <https://danielmiessler.com/blog/continuous-asset-management-security/>`_, and argues that it is one of the most important aspects of cybersecurity. Meissler states that lacking this asset inventory is one of the main reasons that companies get breached. If you don’t know what you are supposed to be defending, you can’t properly defend it. 
-
 
 Automation
 __________
@@ -34,33 +34,5 @@ A variety of software is available in the market to solve this problem, but it m
 * ZenMap: This tool utilizes Nmap and places a user interface on top of it to make the tool easier to use for those who do not feel comfortable using the command line (https://nmap.org/zenmap).
 * CIS Hardware Asset Tracking Spreadsheet: This free spreadsheet is created by CIS to help track enterprise systems and other assets. It can be modified as needed to meet an enterprise’s unique needs. The primary elements within the spreadsheet are also described within the relevant appendix.
 
-**Step-by-step instructions for implementing this Sub-Control can be found in:** 
-
-Hardware & Software Inventory.
-
-
-
-Office365 Process
-_________________
-
-Office 365 provides the capability to quickly build an asset inventory of all systems joined to a domain. While this does not obviate the need to track all assets within a network, it can quickly be used to create an initial software inventory. To access this inventory of joined devices, begin by logging into the Office 365 web application. This screen will be presented. 
-
-.. image:: _static/o354_homescreen.png
-
-Select Admin to access the Microsoft Admin Center.
-
-.. image:: _static/o365_Admin_center.png
-
-Select Show all next to the three dots. 
-
-.. image:: _static/o365_Admin_Center_expanded.png
-
-Select Admin centers, followed by Azure Active Directory. 
-
-.. image:: _static/Azure_Directory_Admin_Cetner.png
-
-Expand the side panel with the 2 sideways brackets >>. Select Azure Active Directory. 
-
-.. image:: _static/Azure_Directory_Device_Dashboard.png
-
+*Step-by-step instructions for implementing this Sub-Control can be found in:* Hardware & Software Inventory.
 

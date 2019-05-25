@@ -7,7 +7,6 @@ Category
 ________
 Technical
 
-
 Purpose
 _______
 Network devices include wireless routers, sometimes called wireless access points, and the networking appliance provided from an Internet service provider (ISP). An ISP is a telecommunications company that provides access to the Internet for companies and individuals. ISP provided appliances are confusingly referred to by multiple interchangeable terms such as modem or cable box. Some ISPs can provide a single network device that acts as modem, wireless access point, and firewall all in one. Regardless, all networking equipment needs to be regularly updated – even devices from the ISP. To update the software or firmware on any of these network appliances, it will often be necessary to access the device via an administrator account. This is commonly done via a web browser. The correct settings to update the system will be provided by the relevant ISP and/or network device manufacturer.
@@ -16,12 +15,10 @@ Older software on wireless access points and cable boxes or modems can lead to a
 
 Automation
 __________
-
 The degree of automatability available for this Sub-Control depends on the network appliances that are in use within an organization. Some network appliances can be set to auto-update all software and firmware. Others will not have this capability and will need to be manually updated on a regular basis.
 
 Guidance and Tools 
 __________________
-
 It is not possible to list all of the models of network appliances provided by an ISP, but the following links are provided to show how to update the software and firmware on some of the most common network devices from United States ISPs. 
 
 * Comcast: Comcast provides information on how to update their modem (https://www.xfinity.com/support/articles/using-your-own-modem-with-new-speeds). 

@@ -13,16 +13,14 @@ Employees are the first line of defense in any good security program. In some se
 
 Many of the top security threats taking advantage of the human factor of security. These include social engineering type attacks such as phishing, spear phishing, vishing, pretexting, baiting, and others. Many threats take advantage of human tendency or emotion. They look to trick employees who are not paying attention to detail or who get caught believing an emotional story.
 
-
 Automation
 __________
-
 There are third-party training platforms available which can reduce the overhead of implementing a security awareness program. Third-party training platforms are engaging and up-to-date but may be too costly for small organizations.
 
 Guidance and Tools 
 __________________
-
 A good security awareness program is more than just an onboarding program or annual training. The U.S. Department of Health and Human Services (HHS) provides material for cybersecurity awareness training. The Multi-State Information Sharing and Analysis Center (MS-ISAC) has a monthly security newsletter that people can subscribe for a free monthly newsletter targeted at end users (https://learn.cisecurity.org/ms-isac-subscription). Here are some key components of a good security awareness program:
+
 * Acceptable use policy: This policy should be in place to lay out the expectations an organization has around its security. This should explain to the employee that they have responsibilities for security in their everyday work. 
 * New employee onboarding training: New employees need to know organizational expectations for security. This training can be formal training provided by third-parties, or may be informal training provided by their supervisor. 
 * Management awareness: Employees need to hear and feel that management takes security seriously and is counting on them to do their part. This can be accomplished by dedicating a moment to security in corporate wide meetings or announcements. 
