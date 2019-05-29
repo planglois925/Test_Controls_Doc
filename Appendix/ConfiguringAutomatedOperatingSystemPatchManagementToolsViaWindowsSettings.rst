@@ -1,6 +1,6 @@
 Configuring Automated Operating System Patch Management Tools via Windows Settings
 ==================================================================================
-*Applies to Sub-Controls 3.4* 
+*Applies to Sub-Control 3.4* 
 
 .. note::
 

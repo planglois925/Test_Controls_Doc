@@ -1,5 +1,5 @@
-Control 7: Email and Web Browser Protections
-============================================
+CIS Control 7: Email and Web Browser Protections
+================================================
 
 Minimize the attack surface and the opportunities for attackers to manipulate human behavior though their interaction with web browsers and email systems.
 

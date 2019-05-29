@@ -1,6 +1,6 @@
 Configuring AutoPlay via Windows Control Panel
 ==============================================
-*Applies to Sub-Controls 8.5* 
+*Applies to Sub-Control 8.5* 
 
 Perform a search for *Settings*.
 

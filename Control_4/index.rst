@@ -1,5 +1,5 @@
-Control 4: Controlled Use of Administrative Privileges
-======================================================
+CIS Control 4: Controlled Use of Administrative Privileges
+==========================================================
 
 The processes and tools used to track/control/prevent/correct the use, assignment, and configuration of administrative privileges on computers, networks, and applications.
 

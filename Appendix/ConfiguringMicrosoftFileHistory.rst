@@ -1,6 +1,6 @@
 Configuring Microsoft File History
 ==================================
-*Applies to Sub-Controls 10.1* 
+*Applies to Sub-Control 10.1* 
 
 Search for *backup* within the Windows search bar. 
 
@@ -20,12 +20,12 @@ The *Backup options home screen* will be presented.
 
 .. note::
 
-	There must be an external hard drive or removable media (e.g., USB drive, thumb drive) connected to the computer to backup information onto. 
+   There must be an external hard drive or removable media (e.g., USB drive, thumb drive) connected to the computer to backup information onto. 
 
 .. figure:: _static/FileHistoryBackupOptions.png
    :align: center
 
-	File history backup options 
+   File history backup options 
 
 Scroll down and select *See advanced options*. 
 
@@ -39,5 +39,5 @@ Ensure File history in turned *on*.
 .. figure:: _static/FinalFileHistoryScreen.png
    :align: center
 
-	Final File History Screen 
+   Final File History Screen 
 

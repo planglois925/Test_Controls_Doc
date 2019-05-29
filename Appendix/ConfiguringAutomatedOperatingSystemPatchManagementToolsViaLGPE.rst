@@ -1,10 +1,10 @@
 Configuring Automated Operating System Patch Management Tools via LGPE
 ==================================================================================
-*Applies to Sub-Controls 3.4* 
+*Applies to Sub-Control 3.4* 
 
 .. note::
 
-	Local Group Policy Editor can be used to configure device settings for patching Windows 10 Pro. 
+   Local Group Policy Editor can be used to configure device settings for patching Windows 10 Pro. 
 
 In the Windows search bar with the magnifying glass icon, type local group to open the Local Group Policy Editor. This is shown below:  
 

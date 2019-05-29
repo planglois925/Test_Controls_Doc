@@ -1,6 +1,6 @@
 Enabling Windows Defender Firewall
 ===================================
-*Applies to Sub-Controls 9.4* 
+*Applies to Sub-Control 9.4* 
 
 Search for Windows Defender in the search bar. 
 

@@ -1,6 +1,6 @@
 Uninstalling Software 
 ======================
-*Applies to Sub-Controls 2.6* 
+*Applies to Sub-Control 2.6* 
 
 Perform a search for *Settings*.
 

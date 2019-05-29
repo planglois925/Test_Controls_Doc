@@ -1,6 +1,6 @@
 Checking Windows Defender Security Center 
 ==========================================
-*Applies to Sub-Controls 8.2* 
+*Applies to Sub-Control 8.2* 
 
 .. note::
 

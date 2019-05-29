@@ -1,6 +1,6 @@
 Configuring AutoPlay via LGPE 
 =============================
-*Applies to Sub-Controls 8.5* 
+*Applies to Sub-Control 8.5* 
 
 .. note::
 
@@ -25,7 +25,7 @@ Select *Computer Configuration* and expand *Administrative Templates*.
 .. figure:: _static/LGPEAdministrativeTemplates.png
    :align: center
 
-	LGPE Administrative Templates 
+   LGPE Administrative Templates 
 
 Select *Windows Components* and *AutoPlay Policies*.
 

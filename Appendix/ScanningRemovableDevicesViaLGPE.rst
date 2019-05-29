@@ -1,6 +1,6 @@
 Scanning Removable Devices via LGPE 
 ===================================
-*Applies to Sub-Controls 8.4* 
+*Applies to Sub-Control 8.4* 
 
 In the Windows search bar with the magnifying glass icon, type local group to open the Local Group Policy Editor.
 

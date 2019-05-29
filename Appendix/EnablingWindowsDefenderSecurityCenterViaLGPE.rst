@@ -1,6 +1,6 @@
 Enabling Windows Defender Security Center via LGPE 
 ==================================================================================
-*Applies to Sub-Controls 8.2* 
+*Applies to Sub-Control 8.2* 
 
 .. note::
 

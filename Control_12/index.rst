@@ -1,5 +1,5 @@
-Control 12: Boundary Defense
-=============================
+CIS Control 12: Boundary Defense
+================================
 
 Detect/prevent/correct the flow of information transferring networks of different trust levels with a focus on security-damaging data.
 

@@ -1,6 +1,6 @@
 Changing the Default Password
 =============================
-*Applies to Sub-Controls 4.2* 
+*Applies to Sub-Control 4.2* 
 
 The best method of achieving this Sub-Control is via local group policy in the next section. Perform a search for *Settings*.
 

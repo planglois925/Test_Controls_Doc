@@ -1,6 +1,6 @@
 Identifying if an Account is an Administrator 
 =============================================
-*Applies to Sub-Controls 4.3* 
+*Applies to Sub-Control 4.3* 
 
 Perform a search for *Settings*.
 

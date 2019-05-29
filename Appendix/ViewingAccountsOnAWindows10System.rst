@@ -1,6 +1,6 @@
 Viewing Accounts on a Windows 10 System
 =======================================
-*Applies to Sub-Controls 16.8* 
+*Applies to Sub-Control 16.8* 
 
 Perform a search for *Settings*.
 
@@ -21,12 +21,12 @@ Select *Family & other people*.
 .. figure:: _static/InformationAboutASpecificNetwork.png
    :align: center
 
-	Individual Account Home Screen 
+   Individual Account Home Screen 
 
 Other accounts on the computer are sometimes viewable on this screen. If the user viewing this display is not an administrator, they may not be able to see all of the accounts on the system. 
 
 .. figure:: _static/IdentifyingOtherAccountsOnWindows.png
    :align: center
 
-	Identifying Other Accounts on Windows
+   Identifying Other Accounts on Windows
 

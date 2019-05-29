@@ -1,6 +1,6 @@
 Creating System Images with Windows 10 Pro 
 ==========================================
-*Applies to Sub-Controls 10.2* 
+*Applies to Sub-Control 10.2* 
 
 Search for *backup* within the Windows search bar. 
 
@@ -21,7 +21,7 @@ Select *Set up backup*.
 .. figure:: _static/BackupAndRestoreHomeScreen.png
    :align: center
 
-	Backup and Restore Home Screen 
+   Backup and Restore Home Screen 
 
 Select the local or network drive where backups should be stored. 
 
@@ -35,18 +35,18 @@ Choose whether Windows will select which files need to be backed up, or if this 
 .. figure:: _static/ChoosingTheStorageLocation.png
    :align: center
 
-	Choosing the Storage Location 
+   Choosing the Storage Location 
 
 Select which accounts will be backed up. All accounts may be the most prudent option. 
 
 .. figure:: _static/SelectingTheAccountsThatWillBeBackedUp.png
    :align: center
 
-	Selecting the Accounts that will be Backedup 
+   Selecting the Accounts that will be Backedup 
 	
 The backup will then begin. This may take a long amount of time to successfully complete. 
 
 .. figure:: _static/SuccessfulBackUpScreen.png
    :align: center
 
-	Successful Backup 
+   Successful Backup 

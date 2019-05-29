@@ -1,5 +1,5 @@
-Control 10: Data Recovery Capabilities
-======================================
+CIS Control 10: Data Recovery Capabilities
+==========================================
 
 The processes and tools used to properly back up critical information with a proven methodology for timely recovery of it.
 

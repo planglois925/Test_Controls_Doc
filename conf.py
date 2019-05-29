@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'CIS Windows 10 Guide'
+project = u'Windows 10 IG1 Guide'
 copyright = u'2019, Center for Internet Security'
 author = u'CIS'
 

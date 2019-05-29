@@ -1,6 +1,6 @@
 Enforcing Password Length via LGPE
 ==================================================================================
-*Applies to Sub-Controls 4.2* 
+*Applies to Sub-Control 4.2* 
 
 .. note::
 

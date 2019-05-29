@@ -1,5 +1,5 @@
-Control 17: Implement a Security Awareness and Training Program
-===============================================================
+CIS Control 17: Implement a Security Awareness and Training Program
+===================================================================
 
 For all functional roles in the organization (prioritizing those mission-critical to the business and its security), identify the specific knowledge, skills and abilities needed to support defense of the enterprise; develop and execute an integrated plan to assess, identify gaps, and remediate through policy, organizational planning, training, and awareness programs.
 
