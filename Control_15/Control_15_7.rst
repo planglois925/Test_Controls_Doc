@@ -23,4 +23,4 @@ AES should be enabled for all wireless networks within an enterprise. This inclu
 * Verizon: Verizon provides guidance for how to configure their router (http://www.verizon.com/support/smallbusiness/internet/fiosinternet/networking/setup/zyxeladapters/128755.htm). 
 * AT&T: AT&T customers can configure their network devices via this guidance (https://www.att.com/esupport/article.html#!/u-verse-high-speed-internet/KM1049997?gsi=1ysnu3). 
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Identifying if a WiFi Connection is Using AES. 
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Identifying if a WiFi Connection is Using AES`

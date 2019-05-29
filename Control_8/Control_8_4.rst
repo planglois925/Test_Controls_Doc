@@ -21,4 +21,4 @@ Guidance and Tools
 __________________
 Windows Defender, a program built-into Windows, can perform a scan of removable media devices. This functionality is called a “custom scan” within the tool. Third-party tools can also be purchased to scan removable devices every time one is inserted in an automated manner. This Sub-Control should be implemented for of the systems within an enterprise.
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Scanning Removable Devices
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Scanning Removable Devices via LGPE`

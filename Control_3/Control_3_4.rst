@@ -26,5 +26,5 @@ There are free products available to assist with patch management. By default, `
 
 CIS offers PDFs with configuration guidelines for 100+ technologies (https://www.cisecurity.org/cis-benchmarks).
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Configuring Automated Operating System Patch Management via Windows Settings.
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Configuring Automated Operating System Patch Management Tools via Windows Settings` 
 

@@ -23,4 +23,4 @@ Although there are free products designed to remove malware, many free antivirus
 
 * Windows Defender Security Center: This application is a portal into a Windows system’s overall security status, including the downloading of software updates (https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-security-center/windows-defender-security-center). 
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Checking Windows Defender Security Center. 
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Checking Windows Defender Security Center` and :ref:`Enabling Windows Defender Security Center via LGPE`  

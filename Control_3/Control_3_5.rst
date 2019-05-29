@@ -1,5 +1,5 @@
-Control 3.4: Deploy Automated Software Patch Management Tools
-=====================================================================
+Control 3.5: Deploy Automated Software Patch Management Tools
+=============================================================
 
 Deploy automated software update tools in order to ensure that third-party software on all systems is running the most recent security updates provided by the software vendor. 
 
@@ -26,5 +26,5 @@ In many instances, it may be worthwhile to attempt to only install applications 
 * PDQ: The free tier can assist in keeping systems up to date (https://www.pdq.com). 
 * Microsoft Store: If applications are installed via the Microsoft Application Store, they can be set to be automatically updated (https://support.microsoft.com/en-us/help/15081/windows-turn-on-automatic-app-updates). 
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Automatic Application Updates via the Microsoft Application Store.
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Automatic Application Updates via the Microsoft Application Store`. 
 

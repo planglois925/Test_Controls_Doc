@@ -29,10 +29,11 @@ Guidance and Tools
 __________________
 
 A variety of software is available in the market to solve this problem, but it may be too expensive for everyone. The following is a list of free tools and software which can help to ease the burden of asset tracking:
+
 * Nmap: Famous multipurpose network scanner, used by system administrators and hackers across the world to identify which devices are connected to a network (https://nmap.org). Be careful to only scan networks for which permission was explicitly given. It is often impolite, and in many cases illegal, to scan networks owned by others. 
 * Spiceworks: This is a free IT inventory and asset management software to identify devices and software on a network (https://www.spiceworks.com).
 * ZenMap: This tool utilizes Nmap and places a user interface on top of it to make the tool easier to use for those who do not feel comfortable using the command line (https://nmap.org/zenmap).
 * CIS Hardware Asset Tracking Spreadsheet: This free spreadsheet is created by CIS to help track enterprise systems and other assets. It can be modified as needed to meet an enterprise’s unique needs. The primary elements within the spreadsheet are also described within the relevant appendix.
 
-*Step-by-step instructions for implementing this Sub-Control can be found in:* Hardware & Software Inventory.
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Hardware and Software Asset Tracking Spreadsheet` 
 

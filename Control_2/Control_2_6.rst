@@ -21,4 +21,4 @@ Guidance and Tools
 __________________
 Many operating systems ship with tools that help accomplish this Sub-Control, in whole or in part. Many of the applications that come pre-installed with operating systems, such as games, social media, and other types of software are candidate for deletion. Additionally, software can be purchased, open source or free tools can be downloaded, to assist. 10AppsManager is an application that can help delete applications that come pre-installed within Windows 10 (https://www.thewindowsclub.com/10appsmanager-windows-10).
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: [Uninstalling Software](Appendix/UninstallingSoftware)
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Uninstalling Software` 

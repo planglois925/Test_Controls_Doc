@@ -21,4 +21,4 @@ Guidance and Tools
 __________________
 Regardless of the edition of Windows 10 that is in use, all local and remote accounts on enterprise computer systems should be regularly checked and audited. This also extends to smartphones, network appliances, and any system that enterprise utilize accounts for user access. 
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Viewing Accounts on a Windows 10 System. 
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Viewing Accounts on a Windows 10 System`

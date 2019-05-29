@@ -21,4 +21,4 @@ Guidance and Tools
 __________________
 There is no standard for the time interval before inactive accounts should be disabled. The length of time is sometimes 15 – 30 days, whereas others recommend 90 days. Enterprises requiring a higher level of security should utilize shorter timeframes. 
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Viewing Accounts on a Windows 10 System. 
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Viewing Accounts on a Windows 10 System`

@@ -21,5 +21,5 @@ Guidance and Tools
 __________________
 Removable devices should not be trusted. How enterprise systems treat removable devices is controllable via the AutoPlay within the Windows 10 Pro Control Panel. Configuring the devices to Ask Me Every Time will give administrators the ability to make this decision before programs are run.
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Configuring Autoplay on Windows 10 Pro
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Configuring AutoPlay via Windows Control Panel` and :ref:`Configuring AutoPlay via LGPE`
 

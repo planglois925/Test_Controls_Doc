@@ -1,5 +1,5 @@
 Automatic Application Updates via the Microsoft Application Store
-==================================================================================
+=================================================================
 *Applies to Sub-Controls 3.5* 
 
 In the Windows search bar with the magnifying glass icon, type Microsoft Store. 

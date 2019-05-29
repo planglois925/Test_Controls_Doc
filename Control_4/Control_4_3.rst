@@ -1,5 +1,5 @@
 Control 4.3: Ensure the Use of Dedicated Administrative Accounts
-=====================================================================
+================================================================
 
 Ensure that all users with administrative account access use a dedicated or secondary account for elevated activities. This account should only be used for administrative activities and not Internet browsing, email, or similar activities. 
 
@@ -27,5 +27,5 @@ There is no standard that can be pointed to for how to keep everyday user accoun
 * If multifactor authentication is not in use, the passwords for administrative accounts should follow current best practices for password strength. 
 * Once a task is completed that required administrative access, make sure to immediately logout of the account.
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Identifying if an Account is an Administrator
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Identifying if an Account is an Administrator` 
 

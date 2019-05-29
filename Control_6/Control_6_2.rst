@@ -25,6 +25,6 @@ There are many types of logs that can be enabled. When beginning to enable loggi
 
 CIS offers free PDFs with configuration guidelines for 100+ technologies (https://www.cisecurity.org/cis-benchmarks).
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Enabling the System Event Audit Log for Windows 10 Pro.
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Enabling the System Event Audit Log`
 
 

@@ -25,4 +25,4 @@ It is best practice to manually check backups from time to time to make sure tha
 * Amanda Network Backup: Free, open source backup tool (http://www.amanda.org). 
 * Bacula: Open source network backup and recovery solution (http://blog.bacula.org). 
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Creating System Images with Windows 10 Pro.  
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Creating System Images with Windows 10 Pro`

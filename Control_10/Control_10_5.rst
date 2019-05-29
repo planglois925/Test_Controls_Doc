@@ -23,11 +23,6 @@ Guidance and Tools
 __________________
 The following documents can provide additional assistance in defending against ransomware: 
 
-* US-CERT: Ransomware - What It Is and What You Can Do About it 
-(https://www.us-cert.gov/sites/default/files/publications/Ransomware_Executive_One-Pager_and_Technical_Document-FINAL.pdf).
-* National Cyber Security Centre of the United Kingdom (UK): Mitigating Malware
-(https://www.ncsc.gov.uk/guidance/mitigating-malware).
-* NIST National Cybersecurity Center of Excellence (NCCoE): Data Integrity
-(https://www.nccoe.nist.gov/sites/default/files/library/sp1800/di-nist-sp1800-11-draft.pdf).
-
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Creating System Images with Windows 10 Pro.  
+* US-CERT: Ransomware - What It Is and What You Can Do About it (https://www.us-cert.gov/sites/default/files/publications/Ransomware_Executive_One-Pager_and_Technical_Document-FINAL.pdf).
+* National Cyber Security Centre of the United Kingdom (UK): Mitigating Malware (https://www.ncsc.gov.uk/guidance/mitigating-malware).
+* NIST National Cybersecurity Center of Excellence (NCCoE): Data Integrity (https://www.nccoe.nist.gov/sites/default/files/library/sp1800/di-nist-sp1800-11-draft.pdf). 

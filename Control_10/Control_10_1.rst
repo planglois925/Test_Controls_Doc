@@ -25,4 +25,4 @@ Most operating systems come with built-in backup programs and utilities, which w
 * Amanda Network Backup: Free, open source backup tool (http://www.amanda.org).
 * Bacula: Open source network backup and recovery solution (http://blog.bacula.org).
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Configuring Microsoft Backup and Restore.  
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Configuring Microsoft File History`

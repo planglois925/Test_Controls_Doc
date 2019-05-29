@@ -5,10 +5,10 @@ This section contains step-by-step guidance to secure a Windows 10 platform in a
 
 .. toctree::
    :maxdepth: 1
+   :titlesonly:
    
    HardwareAssetTrackingSpreadsheet
-   SensitiveInfoTrackingSpreadsheet 
-   JoiningToADomain
+   SensitiveInfoTrackingSpreadsheet
    UninstallingSoftware
    ConfiguringAutomatedOperatingSystemPatchManagementToolsViaWindowsSettings
    ConfiguringAutomatedOperatingSystemPatchManagementToolsViaLGPE
@@ -16,3 +16,18 @@ This section contains step-by-step guidance to secure a Windows 10 platform in a
    ChangingTheDefaultPassword
    EnforcingPasswordLengthViaLGPE
    IdentifyingIfAnAccountIsAnAdministrator
+   CheckingWindowsDefenderSecurityCenter 
+   EnablingWindowsDefenderSecurityCenterViaLGPE
+   EnablingTheSystemEventAuditLog
+   ScanningRemovableDevicesViaLGPE
+   ConfiguringAutoPlayViaWindowsControlPanel
+   ConfiguringAutoPlayViaLGPE
+   EnablingWindowsDefenderFirewall
+   CreatingSystemImagesWithWindows10Pro
+   ConfiguringMicrosoftFileHistory
+   IdentifyingIfAWiFiConnectionIsUsingAES
+   ViewingAccountsOnAWindows10System
+   AutomaticallyLockingAWorkstation
+   JoiningToADomain
+   
+   

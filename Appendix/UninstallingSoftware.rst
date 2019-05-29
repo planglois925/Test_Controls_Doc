@@ -1,5 +1,5 @@
-Joining a Windows 10 System to a Domain 
-==================================================
+Uninstalling Software 
+======================
 *Applies to Sub-Controls 2.6* 
 
 Perform a search for *Settings*.

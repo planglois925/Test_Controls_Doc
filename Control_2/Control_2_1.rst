@@ -42,5 +42,5 @@ There is no universally agreed upon method for tracking software assets. A varie
 * OpenAudIT: Inventory applications and software on workstation servers and network devices (http://www.open-audit.org).  
 * CIS Software Asset Tracking Spreadsheet: This free spreadsheet is created by CIS to help track enterprise systems and other assets. It can be modified as needed to meet an enterprise’s unique needs.
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Hardware & Software Inventory.
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Hardware and Software Asset Tracking Spreadsheet` 
 

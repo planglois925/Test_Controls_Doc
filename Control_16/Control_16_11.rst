@@ -24,4 +24,4 @@ There is no universally agreed upon time frame for how quickly a computer should
 * All computers, phones, and tablets should have their settings changed to lock after a predetermined time. Although you may not be able to enforce it, at least asking employees who use their phones to access work emails to put a password or lock on their personal phones and tablets.
 * Employees should be regularly reminded of the dangers of leaving their computer systems unlocked.
 
-* Step-by-step instructions for implementing this Sub-Control can be found in*: Locking a Workstation via Windows Settings.  
+* Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Automatically Locking a Workstation`.  

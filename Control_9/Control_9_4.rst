@@ -26,4 +26,4 @@ Properly enabling the firewalls built into operating systems goes a long way tow
 
 CIS offers free configuration guidelines for common operating systems and their firewalls (https://www.cisecurity.org/cis-benchmarks).
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Enabling Windows Defender Firewall.  
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Enabling Windows Defender Firewall`

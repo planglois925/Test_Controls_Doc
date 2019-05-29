@@ -28,6 +28,6 @@ One of the main issues with changing default passwords is the need to remember a
 
 The Benchmarks for an OS or application may contain passwords that should be changed, but not all products will have CIS Benchmarks, or have default passwords (https://www.cisecurity.org/cis-benchmarks).
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Changing the default password on Windows 10 Pro.
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Changing the Default Password` 
 
 
