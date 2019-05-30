@@ -1,12 +1,17 @@
-﻿Ctrl ID,CAM,Windows 10 Guide
-3.4,Passes if automatic updates are set to 'Auto Download and schedule the install',Shows how to enforce Windows 10 updates
-4.2,Passes if the Minimum Password Length meets or exceeds a specified minimum,Shows how to change password and enforce length 
-6.2,Passes if at least 1 audit log is configured,Shows how to configure 1 log via LGPE 
-8.2,Passes if any Microsoft-approved antivirus is installed,Shows how to configure Windows Defender 
-8.5,Passes if AutoPlay and AutoRun are disabled ,Shows how to configure AutoPlay and AutoRun
-9.4,Passes if all 3 Windows 10 Firewall profiles are enabled and have a default deny rule for Inbound Traffic,Windows Defender firewall via UI 
-10.4,N/A,Check if bitlocker is enabled
-13.6,Passes if BitLocker is enabled on all drives,N/A 
-15.7,Parses the netsh response via CLI to check for WPA2 usage,Shows how to check for network type
-16.9,Passes if all enabled local user accounts have been logged into within a specified number of days,Shows how to view accounts on a system
-16.11,Passes if a pre-specified Interactive logon interactivity limit is enabled,Shows how to configure Interactive logon limit
+﻿Ctrl ID,CAM,Windows 10 Guide,
+3.4,Passes if automatic updates are set to 'Auto Download and schedule the install',Shows how to enforce Windows 10 updates,
+4.2,Passes if the Minimum Password Length meets or exceeds a specified minimum,Shows how to change password and enforce length ,
+6.2,Passes if at least 1 Audit Policy Sub-Category is enabled,Shows how to configure 1 log via LGPE ,
+8.2,Passes if any Antivirus is enabled and up-to-date ,Shows how to configure Windows Defender ,
+8.5,Passes if AutoPlay and AutoRun are disabled ,Shows how to configure AutoPlay and AutoRun,
+9.4,Passes if all 3 Windows Firewall profiles are enabled and have a default deny rule for Inbound Traffic,Shows how to enable Windows Defender firewall via UI and LGPE,
+10.1,"Passes if Windows 10 File History is turned on for at least 1 user.  (It is not currently checking which user or if all users are making use of File History.  It is also not checking which folders are being backed up with File History.  If these checks are wanted, we should discuss for future versions).",Shows how to use Windows File History ,
+10.2,Passes if the date of the last successful Windows System Image backup occurred within a specified number of days (90 days by default but the user can configure this value).,Shows how to use the Windows 7 Backup tool,
+10.4,"Passes if native Windows encryption is turned on for the backup drives being used to store backups for File History and System Image backup (if enabled).  Fails if the backup service is enabled but the corresponding backup drive is not encrypted.  Fails if neither of the two backup services are enabled.  Will pass if one of the two backup services is enabled and its corresponding backup drive is encrypted, but the other backup service is not enabled.",Shows how to turn on BitLocker,
+13.6,Passes if BitLocker is enabled on all drives,Encourages usage of CIS Benchmarks for iOS and Android,
+15.7,Passes if all wireless connections use WPA2,Shows how to check for network type,
+16.9,Passes if all enabled local user accounts have been logged into within a specified number of days,Shows how to view accounts on a system,
+16.11,Passes if Interactive Logon Machine inactivity limit is enabled and less than a specified timeframe,Shows how to configure Interactive logon limit,
+,,,
+,,,
+,,,

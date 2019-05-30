@@ -50,7 +50,7 @@ Under *Account Management*, select *Audit Computer Account Management*. Ensure t
 
 Under *Account Management*, select *Audit Other Account Management Events*. Ensure that *Configure the following audit events* is checked, and that *Success* is checked. 
 
-.. figure:: _static/AuditComputerAccountManagement.png
+.. figure:: _static/AuditOtherAccountManagementEvents.png
    :align: center
    
    Audit Other Account Management Events  
