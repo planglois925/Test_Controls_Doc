@@ -5,7 +5,7 @@ Acronyms & Abbreviations
 	 
 	2FA	
 		Two Factor Authentication
-
+	
 	AES	
 		Advanced Encryption Standard
 

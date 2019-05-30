@@ -3,6 +3,10 @@ Control 13.6: Encrypt Mobile Device Data
 
 Utilize approved cryptographic mechanisms to protect enterprise data stored on all mobile devices
 
+.. note::
+
+	The definition of a *mobile device* varies from organization to organization. Some organizations will only apply this Sub-Control to smartphones and tablets, whereas others will include laptops within the purview of "mobile." Organizations defining laptops as mobile devices should look to ensure that BitLocker is implemented. 
+
 Category
 ________
 Technical

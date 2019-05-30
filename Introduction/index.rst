@@ -87,9 +87,9 @@ CIS Controls Assessment Module
 The CIS Controls Assessment Module (CAM) is designed to help organizations measure their implementation of the CIS Controls. CAM functions as a module within CIS-CAT Assessor v4 and can be run much like other assessments, making it compatible with existing CIS-CAT functionality including remote assessments and the CIS-CAT Pro Dashboard. The first version of CAM covers IG1 in Windows 10 environments, providing a combination of automated checks and survey questions to cover the 43 IG1 Sub-Controls.  For the more procedural Sub-Controls, CAM allows users to save yes/no answers documenting their implementation of those Sub-Controls at the organizational level.  For Sub-Controls that are conducive to automation, specific settings in the environment are checked to generate a machine-specific pass or fail for that Sub-Control.
 
 Although it is the goal of CIS for a Windows 10 system configured with this Windows 10 Implementation Guide to pass a CAM assessment, there are subtle differences for a subset of CIS Sub-Controls. CAM currently checks for the set of CIS Sub-Controls listed below with the differences between Sub-Control assessment methodologies between this Windows 10 Implementation Guide and CAM.
+    
+.. csv-table:: Comparison of Features 
+   :file: _static/CAM-Win10-Guide-Comparison.csv
+   :header-rows: 1
 
-
-.. toctree::
-   :maxdepth: 1
-   
    

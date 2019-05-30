@@ -24,4 +24,4 @@ Beware – encryption software can be dangerous if the password or encryption ke
 * Veracrypt: This tool is an open source free utility that provides full disk encryption and can also encrypt removable drives, such as those used for backup (https://www.veracrypt.fr/en/How%20to%20Back%20Up%20Securely.html). 
 * EaseUS: This free program can encrypt system images (https://www.easeus.com/backup-software/tb-free.html).
 
-*Step-by-step instructions for implementing this Sub-Control can be found in*: Configuring BitLocker for Windows 10. 
+*Step-by-step instructions for implementing this Sub-Control can be found in*: :ref:`Enabling BitLocker`  

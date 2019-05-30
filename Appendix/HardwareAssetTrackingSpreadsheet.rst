@@ -1,5 +1,5 @@
 Hardware and Software Asset Tracking Spreadsheet 
-==================================================
+================================================
 Elements of a Hardware Asset Tracking Spreadsheet can include the following: 
 
 * Asset Name: Colloquial name of the asset 

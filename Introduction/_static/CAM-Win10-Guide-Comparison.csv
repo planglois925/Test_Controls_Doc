@@ -1,0 +1,12 @@
+﻿Ctrl ID,CAM,Windows 10 Guide
+3.4,Passes if automatic updates are set to 'Auto Download and schedule the install',Shows how to enforce Windows 10 updates
+4.2,Passes if the Minimum Password Length meets or exceeds a specified minimum,Shows how to change password and enforce length 
+6.2,Passes if at least 1 audit log is configured,Shows how to configure 1 log via LGPE 
+8.2,Passes if any Microsoft-approved antivirus is installed,Shows how to configure Windows Defender 
+8.5,Passes if AutoPlay and AutoRun are disabled ,Shows how to configure AutoPlay and AutoRun
+9.4,Passes if all 3 Windows 10 Firewall profiles are enabled and have a default deny rule for Inbound Traffic,Windows Defender firewall via UI 
+10.4,N/A,Check if bitlocker is enabled
+13.6,Passes if BitLocker is enabled on all drives,N/A 
+15.7,Parses the netsh response via CLI to check for WPA2 usage,Shows how to check for network type
+16.9,Passes if all enabled local user accounts have been logged into within a specified number of days,Shows how to view accounts on a system
+16.11,Passes if a pre-specified Interactive logon interactivity limit is enabled,Shows how to configure Interactive logon limit

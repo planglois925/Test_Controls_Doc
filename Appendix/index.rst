@@ -25,6 +25,7 @@ This section contains step-by-step guidance to secure a Windows 10 platform in a
    EnablingWindowsDefenderFirewall
    CreatingSystemImagesWithWindows10Pro
    ConfiguringMicrosoftFileHistory
+   EnablingBitLocker
    IdentifyingIfAWiFiConnectionIsUsingAES
    ViewingAccountsOnAWindows10System
    AutomaticallyLockingAWorkstation
