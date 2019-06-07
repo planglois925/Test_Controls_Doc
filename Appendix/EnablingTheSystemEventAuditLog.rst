@@ -4,7 +4,7 @@ Enabling the System Event Audit Log
 
 .. note::
 
-   Enabling system logs on a Windows 10 system can be a complex task. There are hundreds of different types of logs that can all be enabled differently. This document shows one of many possible system event audit logs. For organizations looking for a solution balancing ease of use and security, CIS recommends organizations enable the following log types from Microsoft (https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations). 
+   Enabling system logs on a Windows 10 system can be a complex task. There are hundreds of different types of logs that can all be enabled differently. This Guide shows one of many possible methods for enabling system event audit logs. For organizations looking for a solution balancing ease of use and security, CIS recommends organizations enable the following log types from Microsoft (https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations). 
 
 In the Windows search bar with the magnifying glass icon, type local group to open the Local Group Policy Editor. This is shown below:  
 

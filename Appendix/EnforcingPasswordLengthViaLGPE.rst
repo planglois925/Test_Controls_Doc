@@ -34,7 +34,7 @@ Select *Account Policies*, then *Password Policy* and then *Minimum password len
 
    LGPE Minimum Password Length 
    
-Input 14 as the minimum password length and select Apply. 
+Input 14 as the minimum password length and select *Apply*. 
 
 .. note::
 	This will not automatically make a user change their password to meet policy. Users will need to manually update their password, but Windows will ensure that future passwords are at least 14 characters long.

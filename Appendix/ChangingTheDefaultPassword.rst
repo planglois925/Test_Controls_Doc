@@ -3,9 +3,9 @@ Changing the Default Password
 *Applies to Sub-Control 4.2* 
 
 .. note::
-	The best method of achieving this Sub-Control is via local group policy in the next section. Perform a search for *Settings*.
-
-In the Windows search bar with the magnifying glass icon, type local group to open the Local Group Policy Editor. This is shown below:  
+	The best method of achieving this Sub-Control is via local group policy in the next section. 
+	
+Perform a search for *Settings*.
 
 .. figure:: _static/SearchingForWindowsSettings.png
    :align: center

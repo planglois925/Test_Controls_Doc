@@ -34,7 +34,7 @@ Select *Windows Update* and double click *Configure Automatic Updates*.
 
    LGPE Windows Update Settings
    
-Ensure that Enabled is selected, and Configure automatic updating is set to: *4 – Auto download and schedule the install*. Select *OK*.
+Ensure that *Enabled* is selected, and Configure automatic updating is set to: *4 – Auto download and schedule the install*. Select *OK*.
 
 .. figure:: _static/AutodownloadHomeScreen.png
    :align: center
