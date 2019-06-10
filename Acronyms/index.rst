@@ -12,9 +12,6 @@ Acronyms & Abbreviations
 	BYOD	
 		Bring Your Own Device
 
-	CAM	
-		Controls Assessment Module
-
 	CIS	
 		Center for Internet Security 
 
